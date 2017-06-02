@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\values-w360dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]
