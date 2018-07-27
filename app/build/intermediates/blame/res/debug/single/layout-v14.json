@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\layout-v14\\abc_activity_chooser_view.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/layout-v14/abc_activity_chooser_view.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/layout-v14/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\abc_activity_chooser_view.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\layout-v14\\abc_activity_chooser_view.xml"
     }
 ]

@@ -1,94 +1,186 @@
 [
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_search_dropdown_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_search_dropdown_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_rollback.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_rollback.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_spinner_ab_holo_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_success_progress.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\recorder_success_progress.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_finish.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_finish.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_globaldialog.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\button_globaldialog.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_ic_clear.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_globaldialog.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\button_globaldialog.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_status_color.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\button_status_color.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_ic_clear_holo_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/button_status_color.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/button_status_color.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_search_dropdown_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_status_color.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\button_status_color.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_video.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/recorder_success_progress.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/recorder_success_progress.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_video.xml",
-        "source": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_video.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_ic_clear.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_ic_clear.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/btn_recorder_video.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/btn_recorder_video.xml"
     },
     {
-        "merged": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/btn_recorder_rollback.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/btn_recorder_rollback.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/button_globaldialog.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/button_globaldialog.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_rollback.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_rollback.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_success_progress.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\recorder_success_progress.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_recorder_finish.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\src\\main\\res\\drawable\\btn_recorder_finish.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/btn_recorder_finish.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/src/main/res/drawable/btn_recorder_finish.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/drawable/abc_list_selector_holo_light.xml"
     }
 ]

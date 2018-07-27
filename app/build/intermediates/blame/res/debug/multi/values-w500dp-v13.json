@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "outputFile": "/Users/lifei/Desktop/project/MediaRecorder-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\values-w500dp\\values.xml",
+                    "file": "/Users/lifei/.android/build-cache/3fc9549834e1574543de699115e372664c4f68e5/output/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lifei/Desktop/project/MediaRecorder-master1/E:\\OpenProjectCore\\10.Video_Advance\\MediaRecorder-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/lifei/Desktop/project/MediaRecorder-master1/C:\\Users\\lifei\\.android\\build-cache\\a17faed44566ee45dcee5e01069412bded592b5a\\output\\res\\values-w500dp\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
