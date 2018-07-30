@@ -7,7 +7,7 @@ import android.os.Environment;
 
 public class RecorderEnv {
 	public final static float MAX_RECORD_TIME = 8000f;
-	public final static float MIN_RECORD_TIME = 2000f;//
+	public final static float MIN_RECORD_TIME = 2000f;//ceshihsihsihsihsi
 
 	public final static String SD_PATH = Environment
 			.getExternalStorageDirectory().toString();
